@@ -1,0 +1,2 @@
+cd ['Chemin d'acces vers ce dossier]
+streamlit run application.py
